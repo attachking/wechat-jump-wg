@@ -1,0 +1,16 @@
+{
+  "name": "wechat-jump-wg",
+  "version": "1.0.0",
+  "description": "a Plug for wechat-jump",
+  "main": "index.js",
+  "git repository": "https://github.com/attachking/wechat-jump-wg.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChenJiYuan",
+  "license": "ISC",
+  "dependencies": {
+    "get-pixels": "^3.3.0",
+    "shelljs": "^0.8.1"
+  }
+}
