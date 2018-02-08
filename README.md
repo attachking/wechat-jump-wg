@@ -9,3 +9,5 @@
 **3、安装依赖 npm install**
 
 **4、连接安卓手机，打开调试模式，运行node index.js**
+
+![](./assets/123.png)
