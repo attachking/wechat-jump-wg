@@ -1,10 +1,11 @@
-# 微信跳一跳NodeJs版外挂
+# 微信跳一跳NodeJs版外挂(全自动)
+` -- by ChenJiYuan`
 ## 开始
 
-安装jdk，sdk
+**1、安装jdk，sdk**
 
-安装NodeJs
+**2、安装NodeJs**
 
-安装依赖 npm install
+**3、安装依赖 npm install**
 
-连接安卓手机，打开调试模式，运行node index.js
+**4、连接安卓手机，打开调试模式，运行node index.js**
